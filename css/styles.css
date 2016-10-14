@@ -1,9 +1,10 @@
 .box-model{
     border: 5px solid darkgrey;
     padding: 50px;
+    border-spacing: 50px;
 }
 .oscar-brown {
-  color: brown;
+  color: #B5651D;
 }
 .rachael-purple {
   color: #BF3EFF;
@@ -14,40 +15,32 @@
   font-family: 'Raleway', sans-serif;
   font-weight: bolder;
 }
-
 .mylinks {
   width: 75%;
   font-style: normal;
   font-weight: bold;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 }
-
-}
 .center-picture {
   display: block;
   margin-left: auto;
   margin-right: auto;
-
 }
 .PS {
-  border: 5px solid purple;
+  height: 205px;
   float:right;
   font-size: 15px;
-  color: darkred;
+  color: #cc0000;
   font-weight: bold;
 }
 #darkblue {
   color: darkblue;
 }
 .aboutme {
-  background-color: lightgrey;
   margin-left: 40px;
   margin-right: 20px;
   font-weight: bold;
 }
-.jumbotron{
-  background-color: lighgrey;
-}
-.well{
-  background color: lightgrey;
+.well {
+  border: 5px solid lightgrey;
 }
