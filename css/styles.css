@@ -1,7 +1,6 @@
 .box-model{
     border: 5px solid darkgrey;
-    padding: 5px;
-    margin: 10px;
+    padding: 50px;
 }
 .oscar-brown {
   color: brown;
@@ -9,7 +8,7 @@
 .rachael-purple {
   color: #BF3EFF;
 }
-#header-color {
+#header {
   color: #1ca1dd;
   text-align: center;
   font-family: 'Raleway', sans-serif;
@@ -22,22 +21,33 @@
   font-weight: bold;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 }
-.center {
-  margin: auto;
-  width: 40%;
-  border: 20px solid purple;
+
 }
 .center-picture {
-  margin: auto;
-  width: 79%;
-  border: 18px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
-.float-right {
+.PS {
+  border: 5px solid purple;
   float:right;
   font-size: 15px;
+  color: darkred;
+  font-weight: bold;
+}
+#darkblue {
+  color: darkblue;
 }
 .aboutme {
+  background-color: lightgrey;
   margin-left: 40px;
   margin-right: 20px;
   font-weight: bold;
+}
+.jumbotron{
+  background-color: lighgrey;
+}
+.well{
+  background color: lightgrey;
 }
