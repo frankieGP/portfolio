@@ -1,0 +1,27 @@
+.oscar-brown {
+  color: brown;
+}
+.rachael-purple {
+  color: #BF3EFF;
+}
+#header-color {
+  color: #1ca1dd;
+  text-align: center
+}
+
+.mylinks {
+  width: 75%;
+  font-style: normal;
+  font-weight: bold;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+.center {
+  margin: auto;
+  width: 40%;
+  border: 20px solid purple;
+}
+.center-picture {
+  margin: auto;
+  width: 78%;
+  border: 20px solid black;
+}
