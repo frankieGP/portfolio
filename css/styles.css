@@ -1,3 +1,8 @@
+.box-model{
+    border: 5px solid darkgrey;
+    padding: 5px;
+    margin: 10px;
+}
 .oscar-brown {
   color: brown;
 }
@@ -6,7 +11,9 @@
 }
 #header-color {
   color: #1ca1dd;
-  text-align: center
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
 }
 
 .mylinks {
@@ -22,6 +29,10 @@
 }
 .center-picture {
   margin: auto;
-  width: 78%;
-  border: 20px solid black;
+  width: 79%;
+  border: 18px solid black;
+}
+.float-right {
+  float:right;
+  font-size: 15px;
 }
